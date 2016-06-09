@@ -1,0 +1,52 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; ----------- THEME INFO ------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+name        = zen_master
+description = The new Web 3.0 theme, based on the Zen base theme.
+screenshot  = screenshot.png
+core        = 7.x
+base theme = zen
+engine      = phptemplate
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; ------------- REGIONS -------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; --------------- LIB ---------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; --------------- CSS ---------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+stylesheets[all][] = css/main.css
+stylesheets[all][] = system.base.css
+stylesheets[all][] = system.menus.css
+stylesheets[all][] = system.messages.css
+stylesheets[all][] = system.theme.css
+stylesheets[all][] = comment.css
+stylesheets[all][] = node.css
+
+; Mobile stylesheets 
+
+; Conditional Styles for IE
+
+; Mobile stylesheets
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; ---------------- JS ---------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; ------------- PLUGINS -------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; ------------- OPTIONS -------------- ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+; additional theme settings
+
