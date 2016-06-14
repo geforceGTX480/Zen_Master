@@ -1821,3 +1821,33 @@ tr.drag-previous {
 .tree-child-horizontal {
   background-position: -11px center;
 }
+/*start of subtheme add on */
+table.views-view-grid.cols-4 td{
+	border: 2px solid #e9e9e9;
+    text-align: center;
+    padding: 8px;
+    border-spacing:14;
+}
+table.views-view-grid.cols-4 a{
+	color:#a51417;
+}
+.view-openacademy-people{
+	float:left
+	}
+.view.view-openacademy-people a {
+    color: #a51417;
+}
+.people-row{
+	float:left;
+	width: 213px;
+    border: 2px solid #eee;
+    padding: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right:10px;
+
+}
+.views-field.views-field-field-person-position {
+    border-top: 1px solid #eee;
+}
+
