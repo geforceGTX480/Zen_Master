@@ -1822,12 +1822,14 @@ tr.drag-previous {
   background-position: -11px center;
 }
 /*start of subtheme add on */
+/*
 table.views-view-grid.cols-4 td{
 	border: 2px solid #e9e9e9;
     text-align: center;
     padding: 8px;
     border-spacing:14;
 }
+*/
 table.views-view-grid.cols-4 a{
 	color:#a51417;
 }
